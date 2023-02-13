@@ -1,4 +1,4 @@
-# add_xperia_camera_app_mk3
+# add-xperia-camera-app-mk3
 ## 概要
 PhotoPro, CinemaProとそのアドオンをカスタムROM環境に導入するMagiskモジュール
 
